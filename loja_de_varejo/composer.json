@@ -1,0 +1,9 @@
+{
+    "name": "qi/fabio_tarde",
+    "autoload": {
+        "psr-4": {
+            "Qi\\FabioTarde\\": "src/"
+        }
+    },
+    "require": {}
+}
